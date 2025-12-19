@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "PassMichaNeu2.jpg"
   name             : "Michael Lindner"
-  pronouns         : # example: "she/her"  
-  bio              : "PostDoc | Energy System Modeling | Complexity Science | Machine Learning"
+  pronouns         : "he/him"  
+  bio              : "PostDoc | Energy System Modeling | Complex Systems | Machine Learning | Department of Digital Transformation in Energy Systems"
   location         : "Berlin, Germany"
-  employer         : "Department of Digital Transformation in Energy Systems (Ensys), Technische Universität Berlin"
+  employer         : "Technische Universität Berlin"
   uri              : # URL
   email            : "m.lindner@tu-berlin.de" 
 
