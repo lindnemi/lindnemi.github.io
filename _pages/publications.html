@@ -6,13 +6,21 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
+{% assign has_publication_categories = false %}
+{% for post in site.publications %}
+  {% if post.category %}
+    {% assign has_publication_categories = true %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
+{% if site.publication_category and has_publication_categories %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
