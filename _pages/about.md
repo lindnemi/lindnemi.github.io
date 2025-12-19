@@ -12,5 +12,5 @@ Energy Transition at the Potsdam Institute for Climate Impact Research, supporte
 the Berlin International School on Modeling and Simulation based Research (BIMoS). During this time
 he developed a strong interest in interdisciplinary research at the intersection of social sciences and
 mathematical modeling. Since 2024 he works as a research scientist on PyPSA-DE, a sector-coupled
-optimization model of the German energy system, at the department for Digital Transformation of
-Energy Systems, Technical University Berlin.
+optimization model of the German energy system, at the **Department for Digital Transformation of
+Energy Systems, Technical University Berlin**.
