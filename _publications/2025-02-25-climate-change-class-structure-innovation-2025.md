@@ -1,6 +1,7 @@
 ---
 title: "Climate change and class structure: greenhouse gas emissions of social classes in the United Kingdom"
 collection: publications
+category: Articles
 permalink: /publication/2025-02-25-climate-change-class-structure-innovation-2025
 excerpt: 'An ecological analysis of GHG emissions through the lens of contemporary class theory.'
 date: 2025-02-25

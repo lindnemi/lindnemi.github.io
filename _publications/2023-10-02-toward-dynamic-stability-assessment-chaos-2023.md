@@ -1,6 +1,7 @@
 ---
 title: "Toward dynamic stability assessment of power grid topologies using graph neural networks"
 collection: publications
+category: Articles
 permalink: /publication/2023-10-02-toward-dynamic-stability-assessment-chaos-2023
 excerpt: 'We provide large datasets for dynamic stability of synthetic power grids and show GNNs predict highly non-linear stability targets from topology.'
 date: 2023-10-02

@@ -1,6 +1,7 @@
 ---
 title: "Whose house is on fire? Identifying socio-demographic and housing characteristics driving differences in the UK household CO2 emissions"
 collection: publications
+category: Articles
 permalink: /publication/2023-05-01-whose-house-is-on-fire-ecolecon-2023
 excerpt: 'A socio-metabolic class analysis of UK housing energy emissions and their socio-demographic drivers.'
 date: 2023-05-01

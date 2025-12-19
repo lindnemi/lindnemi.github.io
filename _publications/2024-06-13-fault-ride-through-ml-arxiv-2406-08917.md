@@ -1,6 +1,7 @@
 ---
 title: "Predicting Fault-Ride-Through Probability of Inverter-Dominated Power Grids using Machine Learning"
 collection: publications
+category: Articles
 permalink: /publication/2024-06-13-fault-ride-through-ml-arxiv-2406-08917
 date: 2024-06-13
 venue: 'arXiv'

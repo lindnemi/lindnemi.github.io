@@ -1,6 +1,7 @@
 ---
 title: "Predicting Instability in Complex Oscillator Networks: Limitations and Potentials of Network Measures and Machine Learning"
 collection: publications
+category: Articles
 permalink: /publication/2024-02-27-instability-oscillator-networks-arxiv-2402-17500
 date: 2024-02-27
 venue: 'arXiv'

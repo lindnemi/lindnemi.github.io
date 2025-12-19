@@ -1,6 +1,7 @@
 ---
 title: "Spatio-temporal organization of dynamics in a two-dimensional periodically driven vortex flow: A Lagrangian flow network perspective"
 collection: publications
+category: Articles
 permalink: /publication/2017-01-01-lagrangian-flow-network-vortex-flow-2017
 excerpt: 'A Lagrangian flow network perspective on a periodically driven 2D vortex flow.'
 date: 2017-01-01

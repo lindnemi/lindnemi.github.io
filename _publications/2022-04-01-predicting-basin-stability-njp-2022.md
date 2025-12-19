@@ -1,6 +1,7 @@
 ---
 title: "Predicting basin stability of power grids using graph neural networks"
 collection: publications
+category: Articles
 permalink: /publication/2022-04-01-predicting-basin-stability-njp-2022
 excerpt: 'We investigate graph neural networks for predicting single-node basin stability in power grids.'
 date: 2022-04-01
