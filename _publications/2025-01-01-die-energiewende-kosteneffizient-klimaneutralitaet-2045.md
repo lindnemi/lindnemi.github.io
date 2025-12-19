@@ -1,7 +1,6 @@
 ---
 title: "Die Energiewende kosteneffizient gestalten: Szenarien zur Klimaneutralität 2045"
 collection: publications
-category: Reports
 permalink: /publication/2025-01-01-die-energiewende-kosteneffizient-klimaneutralitaet-2045
 date: 2025-01-01
 venue: 'Potsdam Institute for Climate Impact Research (Report)'

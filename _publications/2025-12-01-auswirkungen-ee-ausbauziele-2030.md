@@ -1,7 +1,6 @@
 ---
 title: "Auswirkungen einer Anpassung der Ausbauziele für erneuerbare Energien für das Jahr 2030"
 collection: publications
-category: Reports
 permalink: /publication/2025-12-01-auswirkungen-ee-ausbauziele-2030
 excerpt: 'Diese Studie untersucht die Auswirkungen eines möglichen geringeren Ausbaus der Erneuerbaren Energien (EE) für das Jahr 2030 unter Unsicherheit bezüglich der Stromnachfrage.'
 date: 2025-12-01

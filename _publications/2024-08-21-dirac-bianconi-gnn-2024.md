@@ -1,7 +1,6 @@
 ---
 title: "Dirac-Bianconi Graph Neural Networks - Enabling Non-Diffusive Long-Range Graph Predictions"
 collection: publications
-category: Articles
 permalink: /publication/2024-08-21-dirac-bianconi-gnn-2024
 excerpt: 'DBGNNs enable coherent long-range message passing for graph prediction tasks.'
 date: 2024-08-21

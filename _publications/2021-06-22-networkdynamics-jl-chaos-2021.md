@@ -1,7 +1,6 @@
 ---
 title: "NetworkDynamics.jl—Composing and simulating complex networks in Julia"
 collection: publications
-category: Articles
 permalink: /publication/2021-06-22-networkdynamics-jl-chaos-2021
 excerpt: 'We present an open-source Julia package for composing and simulating complex networked dynamical systems.'
 date: 2021-06-22

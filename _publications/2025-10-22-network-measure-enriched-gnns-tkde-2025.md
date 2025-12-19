@@ -1,7 +1,6 @@
 ---
 title: "Network Measure-Enriched GNNs: A New Framework for Power Grid Stability Prediction "
 collection: publications
-category: Articles
 permalink: /publication/2025-10-22-network-measure-enriched-gnns-tkde-2025
 excerpt: 'Network measures integrated into GNNs improve generalization for power-grid stability prediction.'
 date: 2025-10-22

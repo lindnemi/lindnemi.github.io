@@ -1,7 +1,6 @@
 ---
 title: "Characterizing Flows by Complex Network Methods"
 collection: publications
-category: Misc
 permalink: /publication/2019-01-01-characterizing-flows-complex-network-methods-2019
 excerpt: 'Complex network approaches for studying flow systems, including functional and Lagrangian flow networks.'
 date: 2019-01-01

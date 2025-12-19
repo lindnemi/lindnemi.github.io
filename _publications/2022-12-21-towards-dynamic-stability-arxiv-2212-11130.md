@@ -1,7 +1,6 @@
 ---
 title: "Towards dynamic stability analysis of sustainable power grids using graph neural networks"
 collection: publications
-category: Conferences
 permalink: /publication/2022-12-21-towards-dynamic-stability-arxiv-2212-11130
 date: 2022-12-21
 venue: 'NeurIPS 2022 Workshop on Tackling Climate Change with Machine Learning'

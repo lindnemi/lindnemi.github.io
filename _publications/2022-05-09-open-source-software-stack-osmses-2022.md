@@ -1,7 +1,6 @@
 ---
 title: "An Open Source Software Stack for Tuning the Dynamical Behavior of Complex Power Systems"
 collection: publications
-category: Conferences
 permalink: /publication/2022-05-09-open-source-software-stack-osmses-2022
 excerpt: 'A Julia-based open-source stack for efficient transient stability simulation and tuning in power networks.'
 date: 2022-05-09

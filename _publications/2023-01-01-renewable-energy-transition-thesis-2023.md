@@ -1,7 +1,6 @@
 ---
 title: "Applying modeling, simulation and machine learning for the renewable energy transition"
 collection: publications
-category: Reports
 permalink: /publication/2023-01-01-renewable-energy-transition-thesis-2023
 date: 2023-01-01
 venue: 'Doctoral Thesis'

@@ -1,7 +1,6 @@
 ---
 title: "Stochastic basins of attraction and generalized committor functions"
 collection: publications
-category: Articles
 permalink: /publication/2019-01-01-stochastic-basins-committor-functions-2019
 excerpt: 'Generalized basins of attraction for stochastic dynamics via committor functions and sojourn times.'
 date: 2019-01-01

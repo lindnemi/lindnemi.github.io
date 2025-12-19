@@ -1,7 +1,6 @@
 ---
 title: "A cost-efficient energy transition: Scenarios for climate neutrality 2045"
 collection: publications
-category: Reports
 permalink: /publication/2025-01-01-cost-efficient-energy-transition-2045
 date: 2025-01-01
 venue: 'Potsdam Institute for Climate Impact Research (Report)'
